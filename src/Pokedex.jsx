@@ -1,8 +1,6 @@
 import Pokemon from "./Pokemon";
 import "./Pokestyle.css";
 
-// Define defaultProps outside the functional component
-
 
 export default function Pokedex(props) {
     let title;
