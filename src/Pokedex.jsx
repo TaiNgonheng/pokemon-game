@@ -21,6 +21,7 @@ export default function Pokedex(props) {
             name={p.name}
             type={p.type}
             exp={p.base_experience}
+            
           />
         ))}
       </div>
